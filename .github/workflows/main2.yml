@@ -15,4 +15,3 @@ jobs:
 
       - name: Run a one-line script
         run: echo Hello world
-https://github.com/KazakNi/infra_actions/blob/main/.github/workflows/main2yml
