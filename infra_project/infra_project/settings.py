@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    '158.160.2.91',
     'infra_app.apps.InfraAppConfig',
     'django.contrib.admin',
     'django.contrib.auth',
